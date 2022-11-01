@@ -31,7 +31,6 @@ Two opponents. Random choices. First to 3 wins.
 1. Add GUI.
 2. Add "Human vs computer" feature.
 <br/>
-<br/>
 
 ### **Contributors:**
 Vavoulidis Miltiadis - Zacharias.
