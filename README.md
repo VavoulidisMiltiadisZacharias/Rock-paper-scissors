@@ -13,7 +13,7 @@ A java based implementation of the standard game rock paper scissors
 
 ### **General info:**
 This project is an implementation of rock-paper-scissors game using the programming language Java. It supports only "computer vs computer" version (for now). Feel 
-free to download and edit the code. Enjoy your favourite music tracks!!!
+free to download and edit the code. Enjoy the classic game!!!
 <br/>
 <br/>
 
